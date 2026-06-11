@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+no_simpleSeq       1.00      0.98      0.99       444
+   simpleSeq       0.98      1.00      0.99       444
+
+    accuracy                           0.99       888
+   macro avg       0.99      0.99      0.99       888
+weighted avg       0.99      0.99      0.99       888

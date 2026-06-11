@@ -1,3 +1,11 @@
+## Instalación de Dependencias
+
+```bash
+pip install -r requirements.txt
+```
+
+Este comando instalará todas las librerías necesarias para ejecutar el proyecto.
+
 # 🧬 Clasificación de Secuencias de ADN mediante Aprendizaje Automático
 
 Este repositorio está orientado a la clasificación de secuencias de ADN mediante técnicas de aprendizaje automático. El proyecto permite entrenar múltiples modelos de clasificación utilizando diferentes métodos de codificación (*encodings*) de secuencias biológicas y posteriormente emplear el mejor modelo para realizar predicciones sobre nuevas secuencias.

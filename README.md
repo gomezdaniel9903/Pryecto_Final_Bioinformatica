@@ -48,6 +48,8 @@ Todos los modelos son entrenados, evaluados y almacenados para su posterior uso 
 
 ```text
 PROYECTO FINAL/
+├── 📁 Paper/
+    ├── 📄 SimpleRepeatSeq_Articulo.pdf        # Artículo de referencia
 ├── 📁 __pycache__/
 ├── 📁 data_entrenamiento/                 # Datos de encoding generados
 ├── 📁 fasta/                              # Archivos FASTA de entrada
@@ -62,7 +64,6 @@ PROYECTO FINAL/
 ├── 📄 main.py                             # Script principal
 ├── 📄 README.md                           # Documentación
 ├── 📄 resumen_experimentos.csv            # Resumen de resultados
-├── 📄 SimpleRepeatSeq_Articulo.pdf        # Artículo de referencia
 ├── 📄 SimpleRepeatSeq_dataset.fasta_predicciones.csv
 │                                          # Ejemplo de salida
 └── 📄 utilidades.py                       # Funciones auxiliares
